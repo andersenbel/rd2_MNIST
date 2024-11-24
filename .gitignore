@@ -22,9 +22,9 @@ Thumbs.db
 .idea/
 
 # Файли моделі
-results/*.pth
-results/*.png
-results/results.txt
+*.pth
+# results/*.png
+# results/results.txt
 
 # Директорія з даними MNIST
 datasets/
